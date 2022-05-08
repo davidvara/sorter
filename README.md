@@ -72,3 +72,4 @@ SMITH, ANDREW
 * Add Load tests using GATLING so that the results will help tune/improve the current solution.
 * Add check-styles, jacoco, etc. for test coverage for example. 
 * Dockerize if needed.
+* More to come.
